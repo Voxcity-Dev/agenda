@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "react-calendar/dist/Calendar.css";
+//import "react-calendar/dist/Calendar.css";
 import "./App.css";
 import { Navigation } from "./components/navigation";
 import { DayLabels } from "./components/daylabels";
